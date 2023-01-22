@@ -95,3 +95,9 @@ p {
 .icon {
     max-width: 40px;
 }
+
+@media (max-width: 700px)  {
+    .container {
+        width: 80vw;
+    }
+} 
